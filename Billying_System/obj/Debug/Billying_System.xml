@@ -1,0 +1,308 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Billying_System
+</name>
+</assembly>
+<members>
+<member name="T:Billying_System.BillingDataSet2.ProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet2.ProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet2.ProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet2TableAdapters.ProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Billying_System.BillingDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Billying_System.BillingDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Billying_System.BillingDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Billying_System.BillingDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Billying_System.BillingDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Billying_System.BillingDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Billying_System.BillingDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Billying_System.BillingDataSet2TableAdapters.TableAdapterManager.UpdateAll(Billying_System.BillingDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Billying_System.BillingDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Billying_System.BillingDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.AddressDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.ClientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.ProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.SaleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.SaleProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.AddressRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.ClientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.ProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.SaleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.SaleProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.AddressRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.ClientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.ProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.SaleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet.SaleProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSetTableAdapters.AddressTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSetTableAdapters.ClientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSetTableAdapters.ProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSetTableAdapters.SaleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSetTableAdapters.SaleProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Billying_System.BillingDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Billying_System.BillingDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Billying_System.BillingDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Billying_System.BillingDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Billying_System.BillingDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Billying_System.BillingDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Billying_System.BillingDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Billying_System.BillingDataSetTableAdapters.TableAdapterManager.UpdateAll(Billying_System.BillingDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Billying_System.BillingDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Billying_System.BillingDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Billying_System.BillingDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Billying_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Billying_System.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="T:Billying_System.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.AddressDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.ClientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.ProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.SaleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.SaleProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.AddressRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.ClientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.ProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.SaleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.SaleProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.AddressRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.ClientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.ProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.SaleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1.SaleProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1TableAdapters.AddressTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1TableAdapters.ClientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1TableAdapters.ProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1TableAdapters.SaleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1TableAdapters.SaleProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Billying_System.BillingDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Billying_System.BillingDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Billying_System.BillingDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Billying_System.BillingDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Billying_System.BillingDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Billying_System.BillingDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Billying_System.BillingDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Billying_System.BillingDataSet1TableAdapters.TableAdapterManager.UpdateAll(Billying_System.BillingDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Billying_System.BillingDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

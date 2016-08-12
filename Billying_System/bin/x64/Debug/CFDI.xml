@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="QUERETARO" folio="123" fecha="2015-04-06T21:58:33" sello="SOvgq1l9kZr4eALJtphEJMColUWzbipmnea0CSWnWXScZ4iq1Pk0EvQX+fpsPXonCfWH5e2HkEsRKmceZf2u9sx3O3DSFc0ifhhvSTdloLwqPvBO53pVN/9k46HPyjNvdxHrBoZwLmHjIlnrMn1eTezFe1FzCeYEcqEavvax5/Y=" formaDePago="EN UNA SOLA EXHIBICION" noCertificado="20001000000200001436" certificado="MIIEYTCCA0mgAwIBAgIUMjAwMDEwMDAwMDAyMDAwMDE0MzYwDQYJKoZIhvcNAQEFBQAwggFc&#xD;&#xA;MRowGAYDVQQDDBFBLkMuIDIgZGUgcHJ1ZWJhczEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRt&#xD;&#xA;aW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBT&#xD;&#xA;ZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSkwJwYJKoZIhvcNAQkBFhphc2lzbmV0QHBy&#xD;&#xA;dWViYXMuc2F0LmdvYi5teDEmMCQGA1UECQwdQXYuIEhpZGFsZ28gNzcsIENvbC4gR3VlcnJl&#xD;&#xA;cm8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQRGlzdHJpdG8gRmVk&#xD;&#xA;ZXJhbDESMBAGA1UEBwwJQ295b2Fjw6FuMTQwMgYJKoZIhvcNAQkCDCVSZXNwb25zYWJsZTog&#xD;&#xA;QXJhY2VsaSBHYW5kYXJhIEJhdXRpc3RhMB4XDTEzMDUwNzE3MzkzOVoXDTE3MDUwNzE3Mzkz&#xD;&#xA;OVowgdsxKTAnBgNVBAMTIEFDQ0VNIFNFUlZJQ0lPUyBFTVBSRVNBUklBTEVTIFNDMSkwJwYD&#xD;&#xA;VQQpEyBBQ0NFTSBTRVJWSUNJT1MgRU1QUkVTQVJJQUxFUyBTQzEpMCcGA1UEChMgQUNDRU0g&#xD;&#xA;U0VSVklDSU9TIEVNUFJFU0FSSUFMRVMgU0MxJTAjBgNVBC0THEFBQTAxMDEwMUFBQSAvIEhF&#xD;&#xA;R1Q3NjEwMDM0UzIxHjAcBgNVBAUTFSAvIEhFR1Q3NjEwMDNNREZOU1IwODERMA8GA1UECxMI&#xD;&#xA;cHJvZHVjdG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK5u01+YhUIypqmD+lI/is/H&#xD;&#xA;EkhYE7UaRxUwQDFW3xlRPsbuKeytQIdOPmJuW8iQqjklhUkEVTjkUqdc730yc6ENcWmXmQ9C&#xD;&#xA;Z+DJ19ccqltHbWa2MxvN1Xceigs3mcy4vKnqjxt4Yu/QF+lQz0BAeYxlPUPW0gZP+K9ZnuWw&#xD;&#xA;6mgdAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUA&#xD;&#xA;A4IBAQADrL2kw0ym5IZ/5NdPhNwZObz3GtkxZmitFKuCPuA+Pi/9/qkXiQT6LW3qsypQP9hg&#xD;&#xA;qFsZKzpnmJVqnQzEn+t+eQRuK4d11zz1tQnf0rFvdmF9HJCxx0AHto/yd+y3oOn5kA00LBDo&#xD;&#xA;2M23BLWlNRqG4jxOLO6zObBRYl+wK4a/pTEbN5ypwMXReqhSdGLiqr9+KryWFiAiJNCaEMfK&#xD;&#xA;AM3P/RXxYv/0Hel+dPljXqCnC2u039+gr5Ce36d4GW4vVqGgsUl33Kot3Ha3f+Cqzhi8fmgZ&#xD;&#xA;NKYclBBvNxSdSFaX8p6nHnVTnF6NBXG3/RSowE1of4l63ULKRPAg5qjW5Lb3&#xD;&#xA;" subTotal="5128" Moneda="M.N." total="5948.48" tipoDeComprobante="ingreso" metodoDePago="EFECTIVO" LugarExpedicion="QUERETARO" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor rfc="AUBG780220IQZ" nombre="ALFONSO R. BOURS">
+    <cfdi:DomicilioFiscal calle="BOULEVARD DR NORMAN E. BORLAUG" municipio="CAJEME" estado="SONORA" pais="MEXICO" codigoPostal="85139" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN INTERMEDIO" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="LOFA620207QW5" nombre="CLAUDE ROBINSON">
+    <cfdi:Domicilio calle="EPIGMENIO GONZALEZ" noExterior="132" noInterior="0" colonia="SAN PABLO" municipio="QUERETARO" estado="QUERETARO" pais="MEXICO" codigoPostal="76130" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="PZA" descripcion="Paquete Chico de Mantequilla 12oz" valorUnitario="30" importe="30" />
+    <cfdi:Concepto cantidad="1" unidad="PZA" descripcion="Paquete Chico de Mantequilla 12oz" valorUnitario="30" importe="30" />
+    <cfdi:Concepto cantidad="1" unidad="PZA" descripcion="Laptop muy buen" valorUnitario="1222" importe="1222" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="820.48" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+</cfdi:Comprobante>

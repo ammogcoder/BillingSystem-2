@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="123" fecha="2015-04-04T19:17:17" sello="GKHkPnsJ2gSHC3pZMWsZPfs6vTKYEg3khJGe4FM/hgpZ2qACl9drGA7J1/uPekQviQw5pf0N/pBZu+gQCLy5GD/Ur0A2bQLKX4HmjfxBKp8+pAi7EUPRY3gws3btZwdwBxqqDu9u8DnVKbv5ErKX3ehF7qOuqs4m76ybdHGZCpo=" formaDePago="EN UNA SOLA EXHIBICION" noCertificado="20001000000200001436" certificado="MIIEYTCCA0mgAwIBAgIUMjAwMDEwMDAwMDAyMDAwMDE0MzYwDQYJKoZIhvcNAQEFBQAwggFc&#xD;&#xA;MRowGAYDVQQDDBFBLkMuIDIgZGUgcHJ1ZWJhczEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRt&#xD;&#xA;aW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBT&#xD;&#xA;ZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSkwJwYJKoZIhvcNAQkBFhphc2lzbmV0QHBy&#xD;&#xA;dWViYXMuc2F0LmdvYi5teDEmMCQGA1UECQwdQXYuIEhpZGFsZ28gNzcsIENvbC4gR3VlcnJl&#xD;&#xA;cm8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQRGlzdHJpdG8gRmVk&#xD;&#xA;ZXJhbDESMBAGA1UEBwwJQ295b2Fjw6FuMTQwMgYJKoZIhvcNAQkCDCVSZXNwb25zYWJsZTog&#xD;&#xA;QXJhY2VsaSBHYW5kYXJhIEJhdXRpc3RhMB4XDTEzMDUwNzE3MzkzOVoXDTE3MDUwNzE3Mzkz&#xD;&#xA;OVowgdsxKTAnBgNVBAMTIEFDQ0VNIFNFUlZJQ0lPUyBFTVBSRVNBUklBTEVTIFNDMSkwJwYD&#xD;&#xA;VQQpEyBBQ0NFTSBTRVJWSUNJT1MgRU1QUkVTQVJJQUxFUyBTQzEpMCcGA1UEChMgQUNDRU0g&#xD;&#xA;U0VSVklDSU9TIEVNUFJFU0FSSUFMRVMgU0MxJTAjBgNVBC0THEFBQTAxMDEwMUFBQSAvIEhF&#xD;&#xA;R1Q3NjEwMDM0UzIxHjAcBgNVBAUTFSAvIEhFR1Q3NjEwMDNNREZOU1IwODERMA8GA1UECxMI&#xD;&#xA;cHJvZHVjdG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK5u01+YhUIypqmD+lI/is/H&#xD;&#xA;EkhYE7UaRxUwQDFW3xlRPsbuKeytQIdOPmJuW8iQqjklhUkEVTjkUqdc730yc6ENcWmXmQ9C&#xD;&#xA;Z+DJ19ccqltHbWa2MxvN1Xceigs3mcy4vKnqjxt4Yu/QF+lQz0BAeYxlPUPW0gZP+K9ZnuWw&#xD;&#xA;6mgdAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUA&#xD;&#xA;A4IBAQADrL2kw0ym5IZ/5NdPhNwZObz3GtkxZmitFKuCPuA+Pi/9/qkXiQT6LW3qsypQP9hg&#xD;&#xA;qFsZKzpnmJVqnQzEn+t+eQRuK4d11zz1tQnf0rFvdmF9HJCxx0AHto/yd+y3oOn5kA00LBDo&#xD;&#xA;2M23BLWlNRqG4jxOLO6zObBRYl+wK4a/pTEbN5ypwMXReqhSdGLiqr9+KryWFiAiJNCaEMfK&#xD;&#xA;AM3P/RXxYv/0Hel+dPljXqCnC2u039+gr5Ce36d4GW4vVqGgsUl33Kot3Ha3f+Cqzhi8fmgZ&#xD;&#xA;NKYclBBvNxSdSFaX8p6nHnVTnF6NBXG3/RSowE1of4l63ULKRPAg5qjW5Lb3&#xD;&#xA;" subTotal="190" Moneda="M.N." total="220.4" tipoDeComprobante="ingreso" metodoDePago="TRANSFERENCIA" LugarExpedicion="GUADALAJARA, JALISCO" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor rfc="AUBG780220IQZ" nombre="AGUILAR BARRIGA JOSE GERARDO">
+    <cfdi:DomicilioFiscal calle="5 DE MAYO" municipio="GUADALAJARA" estado="JALISCO" pais="MEXICO" codigoPostal="44150" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN INTERMEDIO" />
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="CAAA820212LQI" nombre="CARREÑO ACEVES MARIA DE LOS ANGELES">
+    <cfdi:Domicilio calle="JOSEFA ORTIZ DE DOMINGUEZ" noExterior="746" colonia="ZONA OBLATOS" municipio="GUADALAJARA" estado="JALISCO" pais="MEXICO" codigoPostal="44320" />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="2" unidad="PZA" descripcion="CAJA 48Z" valorUnitario="50" importe="100" />
+    <cfdi:Concepto cantidad="1" unidad="MT" descripcion="SINTETICO AFRICA NEGRO" valorUnitario="60" importe="60" />
+    <cfdi:Concepto cantidad="10" unidad="PZA" descripcion="REPUESTO PLATA" valorUnitario="3" importe="30" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos>
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16" importe="30.4" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+</cfdi:Comprobante>

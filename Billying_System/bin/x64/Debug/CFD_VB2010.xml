@@ -1,0 +1,358 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CFD_VB2010
+</name>
+</assembly>
+<members>
+<member name="P:CFD_VB2010.Comprobante.Emisor">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.Receptor">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.Conceptos">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.Impuestos">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.Complemento">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.Addenda">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.version">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.serie">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.folio">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.fecha">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.sello">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.formaDePago">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.noCertificado">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.certificado">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.condicionesDePago">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.subTotal">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.descuento">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.descuentoSpecified">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.motivoDescuento">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.TipoCambio">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.Moneda">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.total">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.tipoDeComprobante">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.metodoDePago">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.LugarExpedicion">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.NumCtaPago">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.FolioFiscalOrig">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.SerieFolioFiscalOrig">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.FechaFolioFiscalOrig">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.FechaFolioFiscalOrigSpecified">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.MontoFolioFiscalOrig">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.Comprobante.MontoFolioFiscalOrigSpecified">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.Comprobante">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteEmisor.DomicilioFiscal">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteEmisor.ExpedidoEn">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteEmisor.RegimenFiscal">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteEmisor.rfc">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteEmisor.nombre">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteEmisor">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_UbicacionFiscal.calle">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_UbicacionFiscal.noExterior">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_UbicacionFiscal.noInterior">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_UbicacionFiscal.colonia">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_UbicacionFiscal.localidad">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_UbicacionFiscal.referencia">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_UbicacionFiscal.municipio">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_UbicacionFiscal.estado">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_UbicacionFiscal.pais">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_UbicacionFiscal.codigoPostal">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.t_UbicacionFiscal">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_InformacionAduanera.numero">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_InformacionAduanera.fecha">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_InformacionAduanera.aduana">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.t_InformacionAduanera">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_Ubicacion.calle">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_Ubicacion.noExterior">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_Ubicacion.noInterior">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_Ubicacion.colonia">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_Ubicacion.localidad">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_Ubicacion.referencia">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_Ubicacion.municipio">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_Ubicacion.estado">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_Ubicacion.pais">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.t_Ubicacion.codigoPostal">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.t_Ubicacion">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteEmisorRegimenFiscal.Regimen">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteEmisorRegimenFiscal">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteReceptor.Domicilio">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteReceptor.rfc">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteReceptor.nombre">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteReceptor">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConcepto.Items">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConcepto.cantidad">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConcepto.unidad">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConcepto.noIdentificacion">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConcepto.descripcion">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConcepto.valorUnitario">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConcepto.importe">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteConcepto">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoComplementoConcepto.Any">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteConceptoComplementoConcepto">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoCuentaPredial.numero">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteConceptoCuentaPredial">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoParte.InformacionAduanera">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoParte.cantidad">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoParte.unidad">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoParte.noIdentificacion">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoParte.descripcion">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoParte.valorUnitario">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoParte.valorUnitarioSpecified">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoParte.importe">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteConceptoParte.importeSpecified">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteConceptoParte">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestos.Retenciones">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestos.Traslados">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestos.totalImpuestosRetenidos">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestos.totalImpuestosRetenidosSpecified">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestos.totalImpuestosTrasladados">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestos.totalImpuestosTrasladadosSpecified">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteImpuestos">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestosRetencion.impuesto">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestosRetencion.importe">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteImpuestosRetencion">
+	<comentarios/>
+</member><member name="F:CFD_VB2010.ComprobanteImpuestosRetencionImpuesto.ISR">
+	<comentarios/>
+</member><member name="F:CFD_VB2010.ComprobanteImpuestosRetencionImpuesto.IVA">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteImpuestosRetencionImpuesto">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestosTraslado.impuesto">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestosTraslado.tasa">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteImpuestosTraslado.importe">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteImpuestosTraslado">
+	<comentarios/>
+</member><member name="F:CFD_VB2010.ComprobanteImpuestosTrasladoImpuesto.IVA">
+	<comentarios/>
+</member><member name="F:CFD_VB2010.ComprobanteImpuestosTrasladoImpuesto.IEPS">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteImpuestosTrasladoImpuesto">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteComplemento.Any">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteComplemento">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.ComprobanteAddenda.Any">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteAddenda">
+	<comentarios/>
+</member><member name="F:CFD_VB2010.ComprobanteTipoDeComprobante.ingreso">
+	<comentarios/>
+</member><member name="F:CFD_VB2010.ComprobanteTipoDeComprobante.egreso">
+	<comentarios/>
+</member><member name="F:CFD_VB2010.ComprobanteTipoDeComprobante.traslado">
+	<comentarios/>
+</member><member name="T:CFD_VB2010.ComprobanteTipoDeComprobante">
+	<comentarios/>
+</member><member name="P:CFD_VB2010.CFDx.Schemma">
+	<summary>
+ Contiene dos 'Key's : CFDv3 y CFDv32
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CFD_VB2010.CFDx.CreaXML">
+	<summary>
+ Función que llena los Campos de la Classe Comprobante usando las variables privadas declaradas al principio
+ </summary>
+	<returns>Devuelve un Objeto de tipo Comprobante para la Serialización a XML</returns>
+	<remarks></remarks>
+</member><member name="M:CFD_VB2010.CFDx.Comprobante(CFD_VB2010.CFDx.VersionCFD,System.String,System.DateTime,System.String,System.Double,System.Double,CFD_VB2010.ComprobanteTipoDeComprobante,System.String,System.String,System.String,System.String,System.String,System.Double,System.String,System.String,System.String,System.String,System.String,System.Nullable{System.DateTime})">
+	<summary>
+ Método Privado para llenar los atributos y propiedades del objeto comprobante
+ </summary>
+	<param name="Version"></param>
+	<param name="folio"></param>
+	<param name="fecha"></param>
+	<param name="formaDePago"></param>
+	<param name="SubTotal"></param>
+	<param name="Total"></param>
+	<param name="tipoDeComprobante"></param>
+	<param name="metodoDePago"></param>
+	<param name="LugarDeExpedicion"></param>
+	<param name="serie"></param>
+	<param name="TipoDeCambio"></param>
+	<param name="condicionesDePago"></param>
+	<param name="descuento"></param>
+	<param name="motivoDescuento"></param>
+	<param name="Moneda"></param>
+	<param name="NumCtaPago"></param>
+	<param name="FolioFiscalOrig"></param>
+	<param name="SerieFolioFiscalOrig"></param>
+	<param name="FechaFolioFiscalOrig"></param>
+	<remarks></remarks>
+</member><member name="M:CFD_VB2010.CFDx.AgregaEmisor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Agrega los Datos del Emisor
+ </summary>
+	<param name="RFC"></param>
+	<param name="Calle"></param>
+	<param name="Municipio"></param>
+	<param name="Estado"></param>
+	<param name="Pais"></param>
+	<param name="CodigoPostal"></param>
+	<param name="Nombre"></param>
+	<param name="NoExterior"></param>
+	<param name="NoInterior"></param>
+	<param name="Colonia"></param>
+	<param name="Localidad"></param>
+	<param name="Referencia"></param>
+	<remarks></remarks>
+</member><member name="M:CFD_VB2010.CFDx.CreaFacturaXML(System.String,System.String,System.String,System.String@)">
+	<summary>
+ Crea el Archivo XML con los Datos del CFDI
+ </summary>
+	<returns>Regresa True si se creó el CFDI exitósamente, sino, devuelve False</returns>
+	<remarks></remarks>
+</member><member name="M:CFD_VB2010.CFDx.RemoveAllemptys(System.Xml.Linq.XElement,System.Boolean)">
+	<summary>
+ Función que Elimina los Atributos y Elementos que estan vacíos
+ </summary>
+	<param name="el"></param>
+	<param name="includeChildNodes"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:CFD_VB2010.CFDx.ValidaXML(System.Xml.Linq.XDocument,CFD_VB2010.CFDx.VersionCFD,System.String@,System.String)">
+	<summary>
+ Valida la estructura del XML generado usando un archivo XSD
+ </summary>
+	<param name="xml"></param>
+	<param name="xsdNameSpace" description="Name Space del Archivo XSD"></param>
+	<returns>Regresa False si el XML tiene errores VS el Archivo XSD, True si no Contiene Errores</returns>
+</member><member name="M:CFD_VB2010.CFDx.GetCadenaOriginal(System.Xml.Linq.XDocument,System.String)">
+	<summary>
+ Obtiene la Cadena Original con las Especificaciones del Anexo 20 (SAT) en Base al Archivo XML
+ </summary>
+	<param name="XMLstring">El Archivo XML que contiene los Datos para la Factura Electrónica</param>
+	<param name="fileXSLT">El Archivo XSLT que contiene las especifícaciones (SAT) para Obtener la Cadena Original</param>
+	<returns>Regresa un Objeto tipo String con el Formato de Cadena Original (SAT)</returns>
+	<remarks></remarks>
+</member><member name="M:CFD_VB2010.CFDx.SellarXML(System.String,System.String,System.String,System.Xml.Linq.XDocument@)">
+	<summary>
+ Crea el Sello Digital del Emisor Requerido para la Factura Electrónica (SAT)
+ </summary>
+	<param name="KeyFile">El archivo key (*.key) (FIEL) del Emisor</param>
+	<param name="Pass">La Contraseña para leer el Archivo key</param>
+	<param name="CerFile">El Certificado (*.cert) (FIEL) del Emisor</param>
+	<param name="XMLstring">El Archivo XML sin Sellar</param>
+	<remarks></remarks>
+</member><member name="P:CFD_VB2010.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CFD_VB2010.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CFD_VB2010.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

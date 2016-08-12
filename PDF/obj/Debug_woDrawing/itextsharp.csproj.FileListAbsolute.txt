@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Carrera\10moSemestre\DASS\FINAL_DASS\PDF\bin\Debug_woDrawing\itextsharp.dll
+C:\Users\alex\Documents\Carrera\10moSemestre\DASS\FINAL_DASS\PDF\bin\Debug_woDrawing\itextsharp.pdb
+C:\Users\alex\Documents\Carrera\10moSemestre\DASS\FINAL_DASS\PDF\bin\Debug_woDrawing\iTextSharp.xml
+C:\Users\alex\Documents\Carrera\10moSemestre\DASS\FINAL_DASS\PDF\obj\Debug_woDrawing\itextsharp.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Carrera\10moSemestre\DASS\FINAL_DASS\PDF\obj\Debug_woDrawing\itextsharp.dll
+C:\Users\alex\Documents\Carrera\10moSemestre\DASS\FINAL_DASS\PDF\obj\Debug_woDrawing\itextsharp.pdb
